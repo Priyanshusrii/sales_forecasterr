@@ -41,7 +41,7 @@ Installation & Setup
 Clone the Repository
 
 Bash
-git clone https://github.com/your-username/Sales-Forecaster.git
+git clone https://github.com/Priyanshusrii/sales_forecasterr.git
 cd Sales-Forecaster
 Create a Virtual Environment (Optional but Recommended)
 
